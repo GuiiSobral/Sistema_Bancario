@@ -1,18 +1,3 @@
-'''
-REGRAS DE NEGÓCIO
-
-Não precisa identificar usuário
-Deve ser possível depoistar apenas valores positivos
-Todos os depósitos devem ser armazenados em variáveis
-Todos os depósitos devem ser exibidos no extrato
-Limite de três saques diários
-Limite de R$ 500,00 por saque
-Mensagem de alerta em caso de falta de saldo
-Todos os saques devem ser exibidos no extrato
-Formato de valor R$ xxxx.xx (R$ 1500.45)
-
-'''
-
 menu = """
 [d] Depositar
 [s] Sacar
